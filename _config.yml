@@ -11,6 +11,6 @@ baseurl: "/b" # the subpath of your site, e.g. /blog
 url: "http://saogege.github.io" # the base hostname & protocol for your site
 github: "https://github.com/saogege" # github home page for saogege
 #blog link settings
-permalink: /:title
+permalink: date
 # Build settings
 markdown: kramdown
